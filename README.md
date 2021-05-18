@@ -54,6 +54,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 - [Hands-On Infrastructure Monitoring with Prometheus](https://www.prombook.info/) - Hands-On Infrastructure Monitoring with Prometheus by Joel Bastos & Pedro Araújo, reviewed by Brian Brazil.
 
 ## Videos
+- [PromCon Online 2021](https://youtube.com/playlist?list=PLj6h78yzYM2PZb0QuIkm6ZY-xTuNA5zRO) - PromCon Online - May 3, 2021.
 - [PromCon Online 2020](https://www.youtube.com/playlist?list=PLoz-W_CUquUm0r6nxziK9B9LnmNntzctE) - PromCon Online - July 14-16, 2020.
 - [PromCon 2019](https://www.youtube.com/playlist?list=PLoz-W_CUquUmIYKS97RBghcWumZIX2kvv) - PromCon Munich - November 7-8, 2019, PromCon EU 2019.
 - [An Introduction to Systems & Service Monitoring with Prometheus](https://www.youtube.com/watch?v=5O1djJ13gRU) - GOTO 2019: An Introduction to Systems & Service Monitoring with Prometheus - Julius Volz.
